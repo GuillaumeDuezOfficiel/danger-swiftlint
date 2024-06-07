@@ -10,7 +10,7 @@ let package = Package(
             targets: ["DangerSwiftLint"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/danger/danger-swift.git", from: "0.3.0")
+        .package(url: "https://github.com/danger/danger-swift.git", from: "3.18.1")
     ],
     targets: [
         .target(

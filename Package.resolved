@@ -6,71 +6,44 @@
         "repositoryURL": "https://github.com/danger/danger-swift.git",
         "state": {
           "branch": null,
-          "revision": "dd0d6457adf72eedeb10076e1887d49431fd56a6",
-          "version": "0.4.0"
+          "revision": "f52621251fbca861e0b5dd8e828f5967edbf5f14",
+          "version": "3.18.1"
         }
       },
       {
-        "package": "Files",
-        "repositoryURL": "https://github.com/JohnSundell/Files.git",
+        "package": "Logger",
+        "repositoryURL": "https://github.com/shibapm/Logger",
         "state": {
           "branch": null,
-          "revision": "06f95bd1bf4f8d5f50bc6bb30b808c253acd4c88",
-          "version": "2.2.1"
+          "revision": "53c3ecca5abe8cf46697e33901ee774236d94cce",
+          "version": "0.2.3"
         }
       },
       {
-        "package": "Marathon",
-        "repositoryURL": "https://github.com/JohnSundell/Marathon.git",
+        "package": "OctoKit",
+        "repositoryURL": "https://github.com/nerdishbynature/octokit.swift",
         "state": {
           "branch": null,
-          "revision": "959e82b044f7dbb2680c6e7cdaa80d70e9dfa4ca",
-          "version": "3.0.0"
+          "revision": "f762f1566f7cd0e683b9329f169c28ab6ef993cc",
+          "version": "0.12.0"
         }
       },
       {
-        "package": "Releases",
-        "repositoryURL": "https://github.com/JohnSundell/Releases.git",
+        "package": "RequestKit",
+        "repositoryURL": "https://github.com/nerdishbynature/RequestKit.git",
         "state": {
           "branch": null,
-          "revision": "e74f0895855b56147cb96f2d45aba3ec37da64fb",
-          "version": "3.0.0"
+          "revision": "8b0258ea2a4345cbcac90509b764faacea12efb0",
+          "version": "3.2.1"
         }
       },
       {
-        "package": "Require",
-        "repositoryURL": "https://github.com/JohnSundell/Require.git",
+        "package": "Version",
+        "repositoryURL": "https://github.com/mxcl/Version",
         "state": {
           "branch": null,
-          "revision": "7cfbd0d8a2dede0e01f6f0d8ab2c7acef1df112e",
+          "revision": "1fe824b80d89201652e7eca7c9252269a1d85e25",
           "version": "2.0.1"
-        }
-      },
-      {
-        "package": "ShellOut",
-        "repositoryURL": "https://github.com/JohnSundell/ShellOut.git",
-        "state": {
-          "branch": null,
-          "revision": "f1c253a34a40df4bfd268b09fdb101b059f6d52d",
-          "version": "2.1.0"
-        }
-      },
-      {
-        "package": "Unbox",
-        "repositoryURL": "https://github.com/JohnSundell/Unbox.git",
-        "state": {
-          "branch": null,
-          "revision": "17ad6aa1cc2f1efa27a0bbbdb66f79796708aa95",
-          "version": "2.5.0"
-        }
-      },
-      {
-        "package": "Wrap",
-        "repositoryURL": "https://github.com/JohnSundell/Wrap.git",
-        "state": {
-          "branch": null,
-          "revision": "8085c925060b84a1fc0caef444c130da2c8154c3",
-          "version": "3.0.1"
         }
       }
     ]
