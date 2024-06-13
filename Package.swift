@@ -1,4 +1,4 @@
-// swift-tools-version:4.0
+// swift-tools-version:5.7
 
 import PackageDescription
 
@@ -10,12 +10,12 @@ let package = Package(
             targets: ["DangerSwiftLint"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/danger/danger-swift.git", from: "3.18.1")
+        .package(url: "https://github.com/danger/swift.git", from: "3.18.1")
     ],
     targets: [
         .target(
             name: "DangerSwiftLint",
-            dependencies: ["Danger"]),
+            dependencies: [.product(name: "Danger", package: "swift")]),
         .testTarget(
             name: "DangerSwiftLintTests",
             dependencies: ["DangerSwiftLint"]),
